@@ -15,6 +15,7 @@ namespace Blog
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            Console.Read();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
