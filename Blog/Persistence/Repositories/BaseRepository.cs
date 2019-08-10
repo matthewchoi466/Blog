@@ -1,10 +1,13 @@
-﻿using System;
+﻿using Blog.Persistence.Contexts;
+
 namespace Blog.Persistence.Repositories
 {
-    public class BaseRepository
+    public abstract class BaseRepository
     {
-        public BaseRepository()
-        {
-        }
+		protected readonly AppDbContext context;
+        public BaseRepository(AppDbContext context)
+		{
+			this.context = context;
+		}
     }
 }

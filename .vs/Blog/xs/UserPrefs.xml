@@ -1,0 +1,83 @@
+﻿<Properties StartupConfiguration="{4F4FE617-094D-40AE-A3E2-74F4BF6BDA2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Blog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Blog/Startup.cs" Line="51" Column="51" />
+      <File FileName="Blog/Program.cs" />
+      <File FileName="Blog/appsettings.Development.json" />
+      <File FileName="Blog/Properties/launchSettings.json" />
+      <File FileName="Blog/Controllers/ValuesController.cs" />
+      <File FileName="Blog/Domain/Models/Article.cs" Line="10" Column="53" />
+      <File FileName="Blog/Domain/Models/EUserRole.cs" />
+      <File FileName="Blog/Domain/Repositories/IArticleRepository.cs" Line="14" Column="70" />
+      <File FileName="Blog/Persistence/Contexts/AppDbContext.cs" Line="1" Column="1" />
+      <File FileName="Blog/Domain/Models/User.cs" />
+      <File FileName="Blog/Persistence/Repositories/BaseRepository.cs" />
+      <File FileName="Blog/Mapping/ModelToResourceProfile.cs" Line="1" Column="1" />
+      <File FileName="Blog/Resources/UserResource.cs" />
+      <File FileName="Blog/Resources/ArticleSummaryResource.cs" />
+      <File FileName="Blog/Controllers/ArticleContentController.cs" />
+      <File FileName="Blog/Resources/ArticleContentResource.cs" Line="1" Column="1" />
+      <File FileName="Blog/Domain/Services/IArticleContentService.cs" />
+      <File FileName="Blog/Services/ArticleContentService.cs" />
+      <File FileName="Blog/Services/ArticleSummariesService.cs" />
+      <File FileName="Blog/Services/ArticleService.cs" Line="57" Column="75" />
+      <File FileName="Blog/Domain/Services/Communication/BaseResponse.cs" />
+      <File FileName="Blog/Domain/Services/Communication/ArticleResponse.cs" />
+      <File FileName="Blog/Domain/Services/IArticleService.cs" Line="15" Column="87" />
+      <File FileName="Blog/Persistence/Repositories/UnitOfWork.cs" />
+      <File FileName="Blog/Controllers/ArticlesController.cs" Line="86" Column="88" />
+      <File FileName="Blog/Resources/SaveArticleResource.cs" Line="18" Column="9" />
+      <File FileName="Blog/Extensions/ModelStateExtensions.cs" />
+      <File FileName="Blog/Mapping/ResourceToModelProfile.cs" Line="14" Column="43" />
+      <File FileName="Blog/Persistence/Repositories/ArticleRepository.cs" Line="42" Column="1" />
+      <File FileName="Blog/Persistence/Repositories/UserRepository.cs" />
+      <File FileName="Blog/Domain/Repositories/IUserRepository.cs" />
+      <File FileName="Blog/Domain/Repositories/IUnitOfWork.cs" />
+      <File FileName="Blog/Domain/Services/IUserService.cs" Line="1" Column="1" />
+      <File FileName="Blog/Services/UserService.cs" />
+      <File FileName="Blog/Domain/Services/Communication/UserResponse.cs" />
+      <File FileName="Blog/Resources/AuthorResource.cs" Line="1" Column="1" />
+      <File FileName="Blog/Resources/PatchArticleResource.cs" Line="4" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blog" expanded="True">
+            <Node name="Blog" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="ArticlesController.cs" selected="True" />
+              </Node>
+              <Node name="Domain" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Extensions" expanded="True" />
+              <Node name="Mapping" expanded="True" />
+              <Node name="Persistence" expanded="True">
+                <Node name="Contexts" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

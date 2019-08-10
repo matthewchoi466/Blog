@@ -5,14 +5,35 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
-    <Folder Include="Domain\" />
-    <Folder Include="Domain\Models\" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="AutoMapper" Version="8.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.OData" Version="5.7.0" />
+    <PackageReference Include="SimplePatch" Version="3.0.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <Folder Include="Domain\" />
+    <Folder Include="Domain\Models\" />
+    <Folder Include="Domain\Services\" />
+    <Folder Include="Services\" />
+    <Folder Include="Domain\Repositories\" />
+    <Folder Include="Persistence\" />
+    <Folder Include="Persistence\Contexts\" />
+    <Folder Include="Persistence\Repositories\" />
+    <Folder Include="Resources\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Domain\Services\Communication\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
-
+  <ItemGroup>
+    <Compile Remove="Controllers\ValuesController.cs" />
+    <Compile Remove="Resources\UserResource.cs" />
+    <Compile Remove="Services\ArticleContentService.cs" />
+    <Compile Remove="Services\ArticleSummariesService.cs" />
+    <Compile Remove="Domain\Services\IArticleContentService.cs" />
+    <Compile Remove="Domain\Services\IArticleSummariesService.cs" />
+    <Compile Remove="Controllers\ArticleContentController.cs" />
+  </ItemGroup>
 </Project>

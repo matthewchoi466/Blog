@@ -1,0 +1,14 @@
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.csproj.CoreCompileInputs.cache
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.RazorAssemblyInfo.cache
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.RazorAssemblyInfo.cs
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.AssemblyInfoInputs.cache
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.AssemblyInfo.cs
+/Users/matthewchoi466/Projects/Blog/Blog/bin/Debug/netcoreapp2.1/Blog.deps.json
+/Users/matthewchoi466/Projects/Blog/Blog/bin/Debug/netcoreapp2.1/Blog.runtimeconfig.json
+/Users/matthewchoi466/Projects/Blog/Blog/bin/Debug/netcoreapp2.1/Blog.runtimeconfig.dev.json
+/Users/matthewchoi466/Projects/Blog/Blog/bin/Debug/netcoreapp2.1/Blog.dll
+/Users/matthewchoi466/Projects/Blog/Blog/bin/Debug/netcoreapp2.1/Blog.pdb
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.csprojAssemblyReference.cache
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.RazorTargetAssemblyInfo.cache
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.dll
+/Users/matthewchoi466/Projects/Blog/Blog/obj/Debug/netcoreapp2.1/Blog.pdb

@@ -1,5 +1,6 @@
 ﻿using System;
-using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 namespace Blog.Domain.Models
 {
     public class User
@@ -11,5 +12,6 @@ namespace Blog.Domain.Models
         public string Email { get; set; }
         public string Password { get; set; }
 		public EUserRole Role { get; set; }
+        public IList<Article> Articles { get; set; } = new List<Article>();
     }
 }

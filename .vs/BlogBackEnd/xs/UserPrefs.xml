@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4F4FE617-094D-40AE-A3E2-74F4BF6BDA2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Blog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blog/Program.cs">
+    <Files>
+      <File FileName="Blog/Startup.cs" Line="1" Column="1" />
+      <File FileName="Blog/Program.cs" Line="17" Column="54" />
+      <File FileName="Blog/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Blog/Properties/launchSettings.json" Line="30" Column="2" />
+      <File FileName="Blog/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlogBackEnd" expanded="True" selected="True">
+            <Node name="Blog" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
